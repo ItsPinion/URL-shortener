@@ -1,0 +1,5 @@
+1. edit config/site.ts
+2. edit page 28-46 in app/layout.tsx
+3. see errors in each components
+4. fix .env.mjs
+5. fix app/(auth)
